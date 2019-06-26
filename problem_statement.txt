@@ -1,0 +1,8 @@
+Multi-National Company "Fabrikam"  needs to use IAAS(Internet-as-a-service) infrastructure 
+i.e. create a web based architecture for the company so that users can access online products and for employees to 
+manage their leaves and also fill the feedback 
+Fabrikam wants to deploy online shopping web site, so that it is easy for Company to sell their products to 
+international potential customers. 
+Company also wants to host intranet web services for their employees to access
+feedback management system and leave management related information,
+Need to deploy micro-services on a google cloud platform or amazon web services.

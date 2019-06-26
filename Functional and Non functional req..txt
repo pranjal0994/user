@@ -1,0 +1,18 @@
+Functional Requirements :
+
+1. Register User
+2. Login 
+3. Browse categories/View catalog
+4. Add products to cart
+5. Add products to wishlist
+6. Feedback/Review
+7. Payment Gateway(for making online transactions)
+8. Track/Cancel Orders
+9. Logout
+
+
+Non-Functional Requirements:
+
+1. Browse categories
+2. Edit account information
+3. Cancel Orders
